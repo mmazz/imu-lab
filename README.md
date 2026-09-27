@@ -1,8 +1,6 @@
+# IMU-LAB 
 
 
+### ESP32
 
-```
-git clone -b v6.1 --recursive https://github.com/espressif/esp-idf.git
-cd esp-idf
-./install.sh
-```
+Go to firmware/esp32
